@@ -1,8 +1,6 @@
+# Código feito por Heloisa Cavalcanti Oliveira
+
 #  Se achar necessario, faça import de outras bibliotecas
-
-
-
-
 
 # Crie a função que será avaliada no exercício aqui
 def multiplas_operacoes(a, b):
@@ -20,14 +18,6 @@ def multiplas_operacoes(a, b):
         divisao = a / b
     
     return soma, subtracao, multiplicacao, divisao
-
-
-
-
-
-
-
-
 
 # Teste a sua função aqui (caso ache necessário)
 
